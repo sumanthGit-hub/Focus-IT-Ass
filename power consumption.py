@@ -33,7 +33,7 @@ elif units > 200:
     amount.append(9*50)
     amount.append(12*50)
     c1 = units-200
-    amount.append(12*c1)
+    amount.append(15*c1)
 
 print()
 print("Bill Details -->")
