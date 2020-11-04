@@ -24,6 +24,7 @@ user = input("Enter Word: ")
 print(user.capitalize())
 print(user.casefold())
 print(user.upper())
+print(user.title())
 
 
 user1 = input("Enter Word: ")
