@@ -71,15 +71,5 @@ with open("emp.csv","r",newline='') as f:
     for line in data:
         if line[0]  != '' and line[1]  != '' and line[2] != '':
             print(line)
-
-
-
-
-
-
-
-
-
-
-
-
+            
+            
